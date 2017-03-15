@@ -1,6 +1,6 @@
 ## taxi-fare-predictor
 
-A regression model to predict ride fares based on past taxi data.
+A regression model to predict ride fares based on past ride data.
 
 The inputs used to predict fares were: <br/>
 •	Origin coordinates – latitude and longitude at the start <br/>
